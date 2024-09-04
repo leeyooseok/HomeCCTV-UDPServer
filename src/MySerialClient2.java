@@ -7,7 +7,7 @@ public class MySerialClient2 {
     public static void main(String[] args) {
         SerialPort[] availablePorts=SerialPort.getCommPorts();
 
-        SerialPort mySerialPort=availablePorts[5];
+        SerialPort mySerialPort=availablePorts[2];
         int baudRate=9600;
         int datalBits=8;
         int stopBits=SerialPort.ONE_STOP_BIT;
