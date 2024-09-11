@@ -1,4 +1,4 @@
-# HomeCCTVUDPServer
+# HomeCCTV-UDPServer
 
 - 이 프로그램은 UDP서버를 통해 안드로이드 스튜디오의 명령을 아두이노로 전달할 수 있도록 서버를 연결해주는 프로그램입니다.
 - 최종적으로 사용되는 클래스는 MySerialClientUDPServer클래스입니다. 다른 클래스들을 봐야 흐름의 이해가 좀 더 쉬우며 MySerialClient클래스에서 포트를 확인하는 것은 필수적으로 해주어야 합니다.
